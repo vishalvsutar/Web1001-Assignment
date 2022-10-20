@@ -1,7 +1,19 @@
 ﻿@{
-    ViewData["Title"] = "Intro";
+    ViewData["Title"] = "Intro Page";
 }
 
 <div class="text-center">
     <h3 class="display-4">Vishal Sutar</h3>
+    <form>
+        Number 1 <input type="number" name="left" />
+        Number 2 <input type="number" name="right" />
+        <output>Output: @Model</output>
+        <input type="submit" value="Calculate" />
+    </form>
+    
 </div>
+
+@section section
+{
+    <p>My name is Vishal Sutar. I am from India, currently in Canada studying mobile application development.</p>
+}
