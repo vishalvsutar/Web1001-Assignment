@@ -1,0 +1,26 @@
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/bin/Debug/net6.0/appsettings.Development.json
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/bin/Debug/net6.0/appsettings.json
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/bin/Debug/net6.0/WebAssignment Vishal.staticwebassets.runtime.json
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/bin/Debug/net6.0/WebAssignment Vishal
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/bin/Debug/net6.0/WebAssignment Vishal.deps.json
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/bin/Debug/net6.0/WebAssignment Vishal.runtimeconfig.json
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/bin/Debug/net6.0/WebAssignment Vishal.dll
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/bin/Debug/net6.0/WebAssignment Vishal.pdb
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.csproj.AssemblyReference.cache
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.AssemblyInfoInputs.cache
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.AssemblyInfo.cs
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.csproj.CoreCompileInputs.cache
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.MvcApplicationPartsAssemblyInfo.cache
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.RazorAssemblyInfo.cache
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.RazorAssemblyInfo.cs
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/staticwebassets.build.json
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/staticwebassets.development.json
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/scopedcss/bundle/WebAssignment Vishal.styles.css
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/scopedcss/projectbundle/WebAssignment Vishal.bundle.scp.css
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.dll
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/refint/WebAssignment Vishal.dll
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.pdb
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/WebAssignment Vishal.genruntimeconfig.cache
+/Users/vishalsutar/RiderProjects/WebAssignment Vishal/obj/Debug/net6.0/ref/WebAssignment Vishal.dll
